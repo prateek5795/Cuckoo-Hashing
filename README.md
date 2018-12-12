@@ -1,5 +1,9 @@
 # Cuckoo-Hashing
 
+Implementation of data structures and algorithms  
+Fall 2018  
+Short Project 7: Comparison of hashing implementations
+
 Authors - Team SP7 2
 - Prateek Sarna (pxs180012)
 - Bharath Rudra (bxr180008)
